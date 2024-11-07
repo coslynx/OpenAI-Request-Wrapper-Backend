@@ -1,0 +1,13 @@
+fastapi==0.115.4
+uvicorn==0.32.0
+pydantic==2.9.2
+openai==1.54.3
+requests==2.32.3
+sqlalchemy==2.0.36
+bcrypt==4.2.0
+python-multipart==0.0.17
+sentry-sdk==2.18.0
+pytest==8.3.3
+pytest-cov==6.0.0
+pytest-mock==3.14.0
+dotenv==0.0.5
